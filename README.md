@@ -1,2 +1,3 @@
-# chicago-crime-risk-predictions-by-locations
-This work predicts the crime risk by locations whether it is day or night in Chicago city, USA. RandomForestRegressor is used with the train/test data is 30/70. 5-fold cross-validation is implemented. 
+You can use the given data .csv files to use in the code. Do not forget to add the directory.
+
+If you want to use the Eng versions of the data just delete the related part in the code embedded via dictionary type.
